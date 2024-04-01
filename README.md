@@ -1,4 +1,4 @@
-**SAST Scanning Project**
+# SAST Scanning Project 
 
 This project aims to demonstrate the importance of Static Application Security Testing (SAST) by utilizing a SAST scanning tool to identify security vulnerabilities in example Python code. 
 
